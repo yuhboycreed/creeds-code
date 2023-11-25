@@ -1,2 +1,2 @@
 # creeds-code
-i will put my public coing projects here
+i will put my public coding projects here
